@@ -586,7 +586,7 @@
 			<!-- Sensor -->
 			<sensor.baseGainFactor value="100,52"/> <!-- got from manual_iso / module_iso, module_iso is 32 on saltbay PR2, base manual iso is 100 -->
 			<sensor.maxAnalogSensitivity value="3400"/> <!-- TODO VALUE -->
-            <sensor.orientation value="270"/>
+            <sensor.orientation value="90"/>
 			<sensor.profileHueSatMapDimensions value="1,1,1"/> <!--According to DNG spec, the dimension is recommended to be 1 -->
 			<sensor.availableTestPatternModes value="OFF"/>
 			<!-- Info -->
